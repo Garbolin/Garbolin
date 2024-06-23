@@ -1,10 +1,25 @@
-- 👋 Hi, I’m @Garbolin
-- 👀 I’m interested in programming, animation, graphic design, game developing... Everything!!!
-- 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on ...[I don't know yet]
-- 📫 How to reach me: gabrielabuilcl@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I love painting, cats and plants 
+<div align="center">
+  <h1 align="center">🪴Hello! I'm Gabriela 🐈‍⬛</h1>
+</div>
+
+## About me
+
+
+Studying Computer science -🌱- Currently learning: 
+
+<div display="flex" algn-items="row">
+  <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-FCE631">
+  <img alt="Static Badge" src="https://img.shields.io/badge/CSS-3A6DE8">
+  <img alt="Static Badge" src="https://img.shields.io/badge/HTML-FF5733">
+  <img alt="Static Badge" src="https://img.shields.io/badge/SQL-3ED954">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Java-E83A3A">
+  <img alt="Static Badge" src="https://img.shields.io/badge/C-darkblue">
+</div>
+
+<br>
+Interested in frontend and games! 🎮
+<br>
+📫 How to reach me: gabrielabuilcl@gmail.com 
 
 <!---
 Garbolin/Garbolin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
