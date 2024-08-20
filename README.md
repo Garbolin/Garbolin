@@ -14,6 +14,8 @@ Studying Computer science -🌱- Currently learning:
   <img alt="Static Badge" src="https://img.shields.io/badge/SQL-3ED954">
   <img alt="Static Badge" src="https://img.shields.io/badge/Java-E83A3A">
   <img alt="Static Badge" src="https://img.shields.io/badge/C-darkblue">
+  <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-3E9DD9">
+  <img alt="Static Badge" src="https://img.shields.io/badge/REACT-68CAFF">
 </div>
 
 <br>
